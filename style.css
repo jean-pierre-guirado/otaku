@@ -55,6 +55,7 @@
 
 /* BASE */
 body {
+
     font-family: var(--font-family);
     font-size: var(--font-size-base);
     line-height: 1.6;
@@ -63,11 +64,9 @@ body {
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
-}
-body img{
-    
 
 }
+
 
 /* HEADER & NAVIGATION */
 header {
@@ -99,7 +98,7 @@ p {
     color: var(--color-text-black);
     text-decoration: none;
     letter-spacing: 1px;
-    background-image: url('./image/logo-icon.png');
+    background-image: url('./image/logo1.png');
     background-size: 240%;
     background-position: center;
     background-repeat: no-repeat;
